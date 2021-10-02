@@ -2,7 +2,7 @@
 
 Author: Anthony L
 October 2, 2021
-This program will run and test all cases at once. Cases are contained in the examples string.
+This program will run and test all cases at once. Cases are contained in the examples string list.
 
 Question:
 Python Challenge
